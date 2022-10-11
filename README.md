@@ -1,5 +1,5 @@
-### Hi there i'm a Fullstack Developer 👋
--My Portfolio (https://nashonsfolio.netlify.app/)
+### Hi there i'm a Fullstack Blockchain Developer 👋
+
 
 <!--
 **Nashons/Nashons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
